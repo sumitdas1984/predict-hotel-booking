@@ -1,4 +1,4 @@
-# Expedia-Hotel-Recommendations
+# Predicting Hotel Bookings with User Search Parameters
 
 Expedia is interested in predicting which hotel group a user is going to book. Expedia uses algorithms to form **hotel clusters**, where similar hotels are grouped together. These clusters are based on historical price, customer star ratings, geographical locations relative to city center, etc. These hotel clusters serve as good identifiers to which types of hotels people are going to book, while avoiding outliers such as new hotels that don't have historical data.
 
